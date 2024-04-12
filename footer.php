@@ -20,7 +20,7 @@
 					<a href="https://www.youtube.com/channel/UCxymO9M-sikZ0_CSixZWUoA" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.3s" data-wow-duration=".35s">
 						<i class="fab fa-youtube"></i>
 					</a>
-					<a href="https://www.linkedin.com/in/onur-bozkurt/" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.4s" data-wow-duration=".35s">
+					<a href="https://www.linkedin.com/company/bim-mekani̇k/" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.4s" data-wow-duration=".35s">
 						<i class="fab fa-linkedin-in"></i>
 					</a>
 					
