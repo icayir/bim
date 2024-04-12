@@ -30,7 +30,7 @@
 			</div>
 			<div class="brk-header-mobile__logo">
 				<a href="index.php">
-					<img class="brk-header-mobile__logo-1 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/logo_b.png" alt="alt">
+					<img class="brk-header-mobile__logo-1 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="logo_bb.png" alt="alt">
 					<img class="brk-header-mobile__logo-2 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="logo_s_i.png" alt="alt">
 				</a>
 			</div>
@@ -42,7 +42,7 @@
 						<div class="col-lg-2 align-self-lg-center d-none d-lg-block">
 							<div class="text-center">
 								<a href="index.php" class="brk-header__logo brk-header__item @@modifier">
-									<img class="brk-header__logo-1 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/logo_b.png" alt="alt">
+									<img class="brk-header__logo-1 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="logo_bb.png" alt="alt">
 									<img class="brk-header__logo-2 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="logo_s_i.png" alt="alt">
 								</a>
 							</div>

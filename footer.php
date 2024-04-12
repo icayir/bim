@@ -6,7 +6,7 @@
 					<h2 class="brk-headline font__family-poppins font__size-84 font__weight-normal letters rotate-2 text-center show-inline">
 						<span class="brk-words-rotators brk-white-font-color">
 							<b class="is-visible">BIM &nbsp; MEKANİK</b>
-	
+							
 						</span>
 						
 					</h2>
