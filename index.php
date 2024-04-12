@@ -135,7 +135,7 @@
 								<div class="col-md-6 col-lg-4">
 									<div class="info-box__wrapper-icon text-center" data-brk-library="component__info_box">
 										<div class="wow fadeInDown" data-wow-duration="0.8s" data-wow-delay="0.1s">
-											<i class="fab fa-react brk-color-base-1"></i>
+											<i class="fas fa-dice-d6"></i>
 										</div>
 										<div class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.1s">
 											<h6 class="font__family-montserrat font__weight-semibold font__size-18 line__height-28">SHOP DRAWINGS MODELLEME</h6>
