@@ -55,6 +55,8 @@
 									</li>
 									<li class="font__family-montserrat font__size-16 font__weight-bold"><a href="mmo.php"><span class="text"><span class="cirlce"><span class="before"></span><span class="after"></span></span>Makine Mühendisleri Odası</span></a>
 									</li>
+									<li class="font__family-montserrat font__size-16 font__weight-bold"><a href="auto.php"><span class="text"><span class="cirlce"><span class="before"></span><span class="after"></span></span>AUTODESK</span></a>
+									</li>
 								</ul>
 							</div>
 						</div>

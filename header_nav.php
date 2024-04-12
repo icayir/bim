@@ -31,11 +31,11 @@
 			<div class="brk-header-mobile__logo">
 				<a href="index.php">
 					<img class="brk-header-mobile__logo-1 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/logo_b.png" alt="alt">
-					<img class="brk-header-mobile__logo-2 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/logo_s.png" alt="alt">
+					<img class="brk-header-mobile__logo-2 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="logo_s_i.png" alt="alt">
 				</a>
 			</div>
 		</div>
-		<header class="brk-header brk-header_style-1 brk-header_color-white brk-header_skin-1 position-fixed d-lg-flex flex-column" data-sticky-hide="1" style="display: none;" data-logo-src="img/logo-dark-2.png" data-bg-mobile="img/brk-bg-mobile-menu.jpg" data-brk-library="component__header">
+		<header class="brk-header brk-header_style-1 brk-header_color-white brk-header_skin-1 position-fixed d-lg-flex flex-column" data-sticky-hide="1" style="display: none;" data-logo-src="logo_s_i.png" data-bg-mobile="logo_s_i.png" data-brk-library="component__header">
 			<div class="brk-header__main-bar" style="height: 80px;" data-height-scroll="80">
 				<div class="container-fluid">
 					<div class="row align-items-center">
@@ -43,7 +43,7 @@
 							<div class="text-center">
 								<a href="index.php" class="brk-header__logo brk-header__item @@modifier">
 									<img class="brk-header__logo-1 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/logo_b.png" alt="alt">
-									<img class="brk-header__logo-2 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/logo_s.png" alt="alt">
+									<img class="brk-header__logo-2 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="logo_s_i.png" alt="alt">
 								</a>
 							</div>
 						</div>

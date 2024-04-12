@@ -30,36 +30,21 @@
 					<div class="row">
 						<div class="col-sm-3 col-12">
 							<div class="brk-gallery-card brk-gallery-card_shadow" data-brk-library="component__gallery">
-								<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="ser.png" alt="alt" class="brk-gallery-card__img lazyload">
-								<a href="ser.png" data-fancybox="gallery" class="fancybox brk-gallery-card__overlay-full brk-bg-gradient-40deg-85-28 d-flex align-items-center justify-content-center">
+								<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/cer/tmmob1_k.png" alt="alt" class="brk-gallery-card__img lazyload">
+								<a href="img/cer/tmmob1.png" data-fancybox="gallery" class="fancybox brk-gallery-card__overlay-full brk-bg-gradient-40deg-85-28 d-flex align-items-center justify-content-center">
 									<i class="fas fa-plus font__size-36 brk-white-font-color"></i>
 								</a>
 							</div>
 						</div>
 						<div class="col-sm-3 col-12">
 							<div class="brk-gallery-card brk-gallery-card_shadow" data-brk-library="component__gallery">
-								<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="ser.png" alt="alt" class="brk-gallery-card__img lazyload">
-								<a href="ser.png" data-fancybox="gallery" class="fancybox brk-gallery-card__overlay-full brk-bg-gradient-40deg-85-28 d-flex align-items-center justify-content-center">
+								<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/cer/tmmob2_k.png" alt="alt" class="brk-gallery-card__img lazyload">
+								<a href="img/cer/tmmob1_k.png" data-fancybox="gallery" class="fancybox brk-gallery-card__overlay-full brk-bg-gradient-40deg-85-28 d-flex align-items-center justify-content-center">
 									<i class="fas fa-plus font__size-36 brk-white-font-color"></i>
 								</a>
 							</div>
 						</div>
-						<div class="col-sm-3 col-12">
-							<div class="brk-gallery-card brk-gallery-card_shadow" data-brk-library="component__gallery">
-								<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="ser.png" alt="alt" class="brk-gallery-card__img lazyload">
-								<a href="ser.png" data-fancybox="gallery" class="fancybox brk-gallery-card__overlay-full brk-bg-gradient-40deg-85-28 d-flex align-items-center justify-content-center">
-									<i class="fas fa-plus font__size-36 brk-white-font-color"></i>
-								</a>
-							</div>
-						</div>
-						<div class="col-sm-3 col-12">
-							<div class="brk-gallery-card brk-gallery-card_shadow" data-brk-library="component__gallery">
-								<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="ser.png" alt="alt" class="brk-gallery-card__img lazyload">
-								<a href="ser.png" data-fancybox="gallery" class="fancybox brk-gallery-card__overlay-full brk-bg-gradient-40deg-85-28 d-flex align-items-center justify-content-center">
-									<i class="fas fa-plus font__size-36 brk-white-font-color"></i>
-								</a>
-							</div>
-						</div>
+						
 						
 					
 					</div>

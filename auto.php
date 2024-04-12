@@ -14,7 +14,7 @@
 					<div class="col-12 col-lg-6">
 						<div class="d-flex justify-content-lg-end justify-content-start pr-40 pr-xs-0 breadcrumbs__title">
 							<h2 class="brk-white-font-color font__weight-semibold font__size-48 line__height-68 font__family-montserrat">
-								ODTÜ-SEM Sertifikarı
+								AUTODESK Sertifikarı
 							</h2>
 						</div>
 					</div>
@@ -30,16 +30,16 @@
 					<div class="row">
 						<div class="col-sm-3 col-12">
 							<div class="brk-gallery-card brk-gallery-card_shadow" data-brk-library="component__gallery">
-								<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/cer/sem1_k.png" alt="alt" class="brk-gallery-card__img lazyload">
-								<a href="img/cer/sem1.png" data-fancybox="gallery" class="fancybox brk-gallery-card__overlay-full brk-bg-gradient-40deg-85-28 d-flex align-items-center justify-content-center">
+								<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/cer/autod_k.png" alt="alt" class="brk-gallery-card__img lazyload">
+								<a href="img/cer/autod.png"" data-fancybox="gallery" class="fancybox brk-gallery-card__overlay-full brk-bg-gradient-40deg-85-28 d-flex align-items-center justify-content-center">
 									<i class="fas fa-plus font__size-36 brk-white-font-color"></i>
 								</a>
 							</div>
 						</div>
 						<div class="col-sm-3 col-12">
 							<div class="brk-gallery-card brk-gallery-card_shadow" data-brk-library="component__gallery">
-								<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/cer/sem2_k.png" alt="alt" class="brk-gallery-card__img lazyload">
-								<a href="img/cer/sem2.png" data-fancybox="gallery" class="fancybox brk-gallery-card__overlay-full brk-bg-gradient-40deg-85-28 d-flex align-items-center justify-content-center">
+								<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="img/cer/autodre_k.png" alt="alt" class="brk-gallery-card__img lazyload">
+								<a href="img/cer/autodre.png" data-fancybox="gallery" class="fancybox brk-gallery-card__overlay-full brk-bg-gradient-40deg-85-28 d-flex align-items-center justify-content-center">
 									<i class="fas fa-plus font__size-36 brk-white-font-color"></i>
 								</a>
 							</div>
