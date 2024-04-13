@@ -5,7 +5,7 @@
 	<link rel="apple-touch-icon-precomposed" href="favicon.ico">
 	<meta name="theme-color" content="#2775FF">
 	<meta name="keywords" content="themeforest, theme, html, template">
-	<meta name="description" content="themeforest, theme, html, template">
+	<meta name="description" content="bim">
 	<link rel="stylesheet" id="brk-direction-bootstrap" href="css/assets/bootstrap.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 	<link rel="stylesheet" id="brk-skin-color" href="css/skins/brk-black.css">

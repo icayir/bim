@@ -2,16 +2,21 @@
 			<div class="brk-footer__wrapper pt-120 pb-60 d-flex flex-column align-items-center">
 				<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="bk.png" alt="alt" class="brk-abs-img lazyload">
 				<span class="brk-abs-overlay brk-base-bg-11"></span>
-				<div class="text-center mb-100" data-brk-library="component__typing_rotator,assets__typing_rotator">
-					<h2 class="brk-headline font__family-poppins font__size-84 font__weight-normal letters rotate-2 text-center show-inline">
+				<div>
+					<h4 class="brk-headline font__family-poppins font__size-44 font__weight-normal letters rotate-2 text-center show-inline">
 						<span class="brk-words-rotators brk-white-font-color">
-							<b class="is-visible">BIM &nbsp; MEKANİK</b>
+							<b class="is-visible">BIM  MEKANİK</b>
 							
 						</span>
 						
 					</h2>
 				</div>
-				<div class="brk-social-links brk-white-font-color d-flex justify-content-center mb-25 font__size-16 brk-social-links_bordered" data-brk-library="component__social_links">
+				<div>
+					<h2>
+						II
+					</h2>
+				</div>
+				<div class=" mt-50 brk-social-links brk-white-font-color d-flex justify-content-center mb-25 font__size-16 brk-social-links_bordered" data-brk-library="component__social_links">
 					
 					<a href="https://www.instagram.com/bimmekanik/" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.1s" data-wow-duration=".35s">
 						<i class="fab fa-instagram"></i>
