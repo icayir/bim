@@ -12,7 +12,7 @@
             <ul>
                 <li data-index="rs-85" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="800" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                     <img src="" alt="" data-bgposition="center center" data-bgfit="cover" class="rev-slidebg" data-no-retina>
-                    <div class="rs-background-video-layer" data-volume="mute" data-ytid="ObpA_mEiXcg" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videoloop="none" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>
+                    <div class="rs-background-video-layer" data-volume="mute" data-ytid="opXXlG9nJ3U" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videoloop="none" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>
                     
                 
 
@@ -24,62 +24,7 @@
                 
 
                 </li>
-                <li data-index="rs-85" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="800" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    
-                    <div class="rs-background-video-layer" data-volume="mute" data-ytid="ObpA_mEiXcg" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videoloop="none" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>
-                    
-                
-
-                </li>
-                <li data-index="rs-85" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="800" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    
-                    <div class="rs-background-video-layer" data-volume="mute" data-ytid="ObpA_mEiXcg" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videoloop="none" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>
-                    
-                
-
-                </li>
-                <li data-index="rs-85" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="800" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    
-                    <div class="rs-background-video-layer" data-volume="mute" data-ytid="ObpA_mEiXcg" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videoloop="none" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>
-                    
-                
-
-                </li>
-                <li data-index="rs-85" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="800" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    
-                    <div class="rs-background-video-layer" data-volume="mute" data-ytid="ObpA_mEiXcg" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videoloop="none" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>
-                    
-                
-
-                </li>
-                <li data-index="rs-85" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="800" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    
-                    <div class="rs-background-video-layer" data-volume="mute" data-ytid="ObpA_mEiXcg" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videoloop="none" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>
-                    
-                
-
-                </li>
-                <li data-index="rs-85" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="800" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    
-                    <div class="rs-background-video-layer" data-volume="mute" data-ytid="ObpA_mEiXcg" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videoloop="none" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>
-                    
-                
-
-                </li>
-                <li data-index="rs-85" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="800" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    
-                    <div class="rs-background-video-layer" data-volume="mute" data-ytid="ObpA_mEiXcg" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videoloop="none" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>
-                    
-                
-
-                </li>
-                <li data-index="rs-85" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="800" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    
-                    <div class="rs-background-video-layer" data-volume="mute" data-ytid="ObpA_mEiXcg" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videoloop="none" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>
-                    
-                
-
-                </li>
+             
                 
         </div>
     </div>
@@ -100,7 +45,7 @@
 											<i class="fas fa-dice-d6"></i>
 										</div>
 										<div class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0s">
-											<h6 class="font__family-montserrat font__weight-semibold font__size-18 line__height-28">UYGULAMA  PROJE TASARIM <br>ve  MODELLEME</h6>
+											<h6 class="font__family-montserrat font__weight-semibold font__size-18 line__height-28">TASARIM </h6>
 												<ul>
                                                     <li>
                                                         <p>ISITMA & SOGUTMA YÜK ANALIZLERI</p>
@@ -120,11 +65,12 @@
                                                     <li>
                                                         <p>BASINÇ KAYIP HESAP RAPORLARI</p>
                                                     </li>
-                                                    <li>
-                                                        <p>METRAJ VE KEŞIF</p>
-                                                    </li>
+                                                    
                                                     <li>
                                                         <p>İHALE DOSYASI</p>
+                                                    </li>
+                                                    <li>
+                                                        <p>ENERJİ ANALİZLERİ</p>
                                                     </li>
                                                     
                                                 </ul>
@@ -138,20 +84,34 @@
 											<i class="fas fa-dice-d6"></i>
 										</div>
 										<div class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.1s">
-											<h6 class="font__family-montserrat font__weight-semibold font__size-18 line__height-28">SHOP DRAWINGS MODELLEME</h6>
+											<h6 class="font__family-montserrat font__weight-semibold font__size-18 line__height-28">MODELLEME</h6>
                                             <ul>
+                                                <li>
+                                                    <p>
+                                                    MİMARİ MODELLEME 
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <p>
+                                                    STRÜKTÜREL MODELLEME 
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <p>MEKANİK TESİSAT MODELLEME</p>
+                                                </li>
                                                     <li>
-                                                        <p>CIHAZ SEÇIMLERI</p>
+                                                        <p>ELEKTRİK TESİSATI MODELLEME</p>
                                                     </li>
                                                     <li>
                                                         <p>CIHAZ YERLESiM PLANLARI</p>
                                                     </li>
                                                     <li>
-                                                        <p>3D GÖRÜNTÜ VE ANiMASYONLAR</p>
+                                                        <p>CAKISMA ANALiZLERi</p>
                                                     </li>
                                                     <li>
-                                                        <p>KESIT GÖRÜNÜSLER</p>
+                                                        <p>3D GÖRÜNTÜ VE ANiMASYONLAR</p>
                                                     </li>
+                                                  
                                             </ul>
 										</div>
 										<div class="icon-after"></div>
@@ -163,14 +123,13 @@
 											<i class="fas fa-dice-d6"></i>
 										</div>
 										<div class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">
-											<h6 class="font__family-montserrat font__weight-semibold font__size-18 line__height-28"> EKSTRALAR</h6>
+											<h6 class="font__family-montserrat font__weight-semibold font__size-18 line__height-28"> PLANLAMA</h6>
                                             <ul>
                                                     <li>
-                                                        <p>HAKEDİS VE ATASMANLAR	</p>
+                                                        <p>METRAJ VE KEŞIF</p>
                                                     </li>
-                                                    <li>
-                                                        <p>CAKISMA ANALiZLERi</p>
-                                                    </li>
+                                    
+                                                    
                                                     <li>
                                                         <p>PROJE YAPIM PLANI</p>
                                                     </li>
@@ -180,9 +139,7 @@
                                                     <li>
                                                         <p>5D SIMULASYON (+MALİYET BOYUTU)</p>
                                                     </li>
-                                                    <li>
-                                                        <p>ENERJi ANALIZLERi	</p>
-                                                    </li>
+                                                    
 										</div>
 										<div class="icon-after"></div>
 									</div>

@@ -9,13 +9,9 @@
 							
 						</span>
 						
-					</h2>
+					</h4>
 				</div>
-				<div>
-					<h2>
-						II
-					</h2>
-				</div>
+				
 				<div class=" mt-50 brk-social-links brk-white-font-color d-flex justify-content-center mb-25 font__size-16 brk-social-links_bordered" data-brk-library="component__social_links">
 					
 					<a href="https://www.instagram.com/bimmekanik/" class="brk-social-links__item wow fadeInUp" data-wow-delay="1.1s" data-wow-duration=".35s">

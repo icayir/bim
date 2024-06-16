@@ -39,8 +39,8 @@
 									</h2>
 								</div>
 							</div>
-							<p class="font__family-open-sans font__size-15 line__height-24 brk-dark-font-color mt-20">Mekanik tesisat alanında 15 sene ağırlıklı olarak uygulama kısmında görev yaparak  ısıtma, soğutma, havalandırma, yangından korunma, sıhhi tesisat, doğalgaz, medikal gaz, VRF, BMS ve sismik koruma konularında uzmanlaştıktan sonra, 2023 senesinde yürürlükteki güncel mevzuata göre </p>
-                            <p class="font__family-open-sans font__size-15 line__height-24 brk-dark-font-color"> (Planlı Alanlar İmar Yönetmeliği) uygulama projeleri konusunda tam yetki alarak Building Information Modeling alanında özelleşmiş olan BIM MEKANİK TESİSAT PROJE TASARIM MODELLEME ve DANISMANLIK firmasını kurdum.</p>
+							<p class="font__family-open-sans font__size-15 line__height-24 brk-dark-font-color mt-20">Mekanik tesisat alanında 15 sene ağırlıklı olarak uygulama kısmında görev yaparak  ısıtma, soğutma, havalandırma, yangından korunma, sıhhi tesisat, doğalgaz, medikal gaz, VRF, BMS ve sismik koruma konularında uzmanlaştıktan sonra, 2023 senesinde Building Information Modeling alanında özelleşmiş olan BIM MEKANİK TESİSAT PROJE TASARIM MODELLEME ve DANISMANLIK firmasını kurdum. </p>
+                            <p class="font__family-open-sans font__size-15 line__height-24 brk-dark-font-color">    </p>
 							
 						</div>
 						<div class="col-lg-4">
